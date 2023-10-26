@@ -1,0 +1,15 @@
+.bg{
+    background-image: url("assests/smiley-couple-traveling-by-car.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.bg2{
+    background-image: url("assests/siva.png");
+    background-size: cover;
+    height: 70vh;
+}
+.bg3{
+    background-image: url("assests/young-woman-car-trip.jpg");
+    background-size: cover;
+    height: 70vh;
+}
